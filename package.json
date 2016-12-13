@@ -1,0 +1,30 @@
+{
+  "name": "pim_bot",
+  "version": "1.0.0",
+  "description": "A personal information management slack bot that  used Botkit",
+  "main": "pim_bot.js",
+  "scripts": {
+    "test": " "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abq8392/pim_bot.git"
+  },
+  "keywords": [
+    "personal",
+    "information",
+    "management",
+    "slackbot",
+    "bot"
+  ],
+  "author": "Mei-Ling Chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abq8392/pim_bot/issues"
+  },
+  "homepage": "https://github.com/abq8392/pim_bot#readme",
+  "dependencies": {
+    "botkit": "^0.4.3",
+    "botkit-storage-mongo": "^1.0.4"
+  }
+}
